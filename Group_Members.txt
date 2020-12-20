@@ -1,0 +1,13 @@
+Assignment 3
+Group members: 
+Salwa Saki Islam, N01387528
+Esrazur Rahman, N01382105
+Semra Inan, N01341029
+
+----------------------------
+How to login to the petshop?
+
+*open the script file under Info folder
+*copy the querries, paste it to the SQL int the phpMyAdmin and run it
+*run the page login.php
+*user name= admin, password= admin

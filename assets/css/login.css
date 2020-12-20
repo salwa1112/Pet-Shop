@@ -1,0 +1,23 @@
+/* style for login.php */
+
+body {
+    background-image: url(uploads/dog4.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.centerDiv {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+.centerDiv button {
+    font-weight: bold;
+}
+
+.error {
+    color: red;
+}
